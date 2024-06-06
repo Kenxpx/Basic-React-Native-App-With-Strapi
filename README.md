@@ -1,1 +1,0 @@
-# Basic-React-Native-App-With-Strapi
